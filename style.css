@@ -1,0 +1,20 @@
+body{
+    //background-color: #feffff;
+    color: black;
+    text-align: center;
+    background-image: url(background%20image.jpg);
+   overflow-x: hidden;
+}
+
+
+h1{
+    color:#312c32;
+    border: 0px;
+    text-align: center;
+    font-size: 50px;
+    border-style: solid;
+    border-color: aqua;
+    margin: -10px;
+    background-color: #daad86;
+
+}
